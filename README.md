@@ -24,6 +24,7 @@ This application uses Pulumi to manage AWS cloud infrastructure.
 ### DYNAMODB
 
 * Data Storage for the visitor count
+
 | id            | count         |
 | ------------- | ------------- |
 | count         | 19            |
