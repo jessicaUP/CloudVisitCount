@@ -1,0 +1,3 @@
+name: visitor-counter
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
